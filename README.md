@@ -1,5 +1,13 @@
 # NestJS Bookmark API
 
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+[![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/)
+[![Prisma](https://img.shields.io/badge/prisma-%233C3C3C.svg?style=for-the-badge&logo=prisma&logoColor=white)](https://www.prisma.io/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Pactum](https://img.shields.io/badge/pactum-%23007ACC.svg?style=for-the-badge&logo=pactum&logoColor=white)](https://github.com/pactumjs/pactum)
+
 This project is a practice implementation of a Bookmark API using the NestJS framework. It allows users to sign-up, sign-in, and perform CRUD operations on their bookmarks. The project utilizes Prisma for database connections, Pactum for end-to-end tests, and Docker Compose for managing development and test databases.
 
 ## Features
@@ -212,3 +220,8 @@ This documentation provides an overview of the available API endpoints and their
 ## Contributing
 
 Pull requests and suggestions are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
